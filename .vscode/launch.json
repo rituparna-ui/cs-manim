@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Manim",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "manim",
+      "args": ["main.py", "RituScene"],
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
